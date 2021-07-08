@@ -1,0 +1,6 @@
+Col1,col2,col3,col4
+1,null,che,1000
+2,mani,hyd,null
+3,Smith,null,1200
+4,ram,Del,3200
+5,Krish,null,1400
