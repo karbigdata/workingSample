@@ -1,7 +1,0 @@
-BatchID,Year,CourseName
-X1,2020,Scala
-X2,2020,Python
-X3,null,Java
-X4,2021,Scala
-X5,null,Python
-X6,2021,Spark
