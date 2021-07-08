@@ -1,3 +1,0 @@
-name,loc,datetime
-abc,india,20180419
-xyz,uk,20180111
