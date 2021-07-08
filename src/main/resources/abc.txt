@@ -1,5 +1,0 @@
-Server is data
-The data Linux server was data provided to our team.
-Our team wants access SSH access to above server.
-Please provide SLA
-Process ID for data is xyz
