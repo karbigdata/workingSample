@@ -1,7 +1,0 @@
-name,loc,datetime
-abc,india,20200419
-xyz,us,20200512
-bbb,india,20190101
-ccc,mexico,20200105
-zzz,india,20180406
-sss,us,20200420
